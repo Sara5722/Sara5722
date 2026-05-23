@@ -1,9 +1,9 @@
-# Hi there, I'm Sara 👋
+🎓 Data Science student at the University of Illinois Chicago, concentrating in Computer Science with a minor in Chinese. Expected graduation May 2027.
 
-🎓 I'm a Data Science student at the University of Illinois Chicago, concentrating in Computer Science. I’m passionate about uncovering patterns in data and turning them into insights that solve real-world problems.
+💻 I build end-to-end ML systems, from data pipelines to deployed applications. Recent work includes a county-level disaster risk prediction pipeline at Snowflake.
 
-💻 Through a mix of coursework and hands-on projects, I’ve built a strong foundation in programming, statistics, and data analysis. 
+🚀 Currently expanding into AI engineering through CodePath's AI Engineering program and Ascent Legal Tech Academy by Relativity, while working toward my AWS Cloud Practitioner certification.
 
-🚀 I'm currently part of the [Break Through Tech AI](https://www.breakthroughtech.org/ai/) program, where I’m expanding my skills through project-based learning, mentorship, and collaboration.
+🛠️ Stack: Python · SQL · PyTorch · Scikit-learn · Snowflake · Streamlit · R · Power BI
 
-📫 How to reach me: sara.alaidroos@gmail.com
+📫 Reach me at sara.alaidroos@gmail.com · LinkedIn
