@@ -2,7 +2,7 @@
 
 💻 I build end-to-end ML systems, from data pipelines to deployed applications. Recent work includes a county-level disaster risk prediction pipeline at Snowflake.
 
-🚀 Currently expanding into AI engineering through CodePath's AI Engineering program and Ascent Legal Tech Academy by Relativity, while working toward my AWS Cloud Practitioner certification.
+🚀 Currently expanding into AI engineering through CodePath's AI Engineering program
 
 🛠️ Stack: Python · SQL · PyTorch · Scikit-learn · Snowflake · Streamlit · R · Power BI
 
